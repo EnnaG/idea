@@ -6,5 +6,6 @@ public class User {
     private  String get;
     private  String post;
     private  String girl;
+    private  String boy;
 
 }
