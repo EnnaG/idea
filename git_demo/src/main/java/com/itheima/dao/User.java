@@ -7,6 +7,7 @@ public class User {
     private  String post;
     private  String girl;
     private  String boy;
+    private  String a;
     private  String b;
 
 }
